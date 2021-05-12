@@ -1,0 +1,4 @@
+﻿  HW9_6.c
+C:\Users\seple\source\repos\LABHW9\HW9_6\HW9_6.c(20,29): error C2166: l-value가 const 개체를 지정합니다.
+C:\Users\seple\source\repos\LABHW9\HW9_6\HW9_6.c(21,32): error C2166: l-value가 const 개체를 지정합니다.
+C:\Users\seple\source\repos\LABHW9\HW9_6\HW9_6.c(22,30): error C2166: l-value가 const 개체를 지정합니다.
